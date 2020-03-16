@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Bharath Srinivas Prabakaran"
+  avatar           : "profile.png"
+  bio              : "Research Associate at TU Wien"
+  location         : "Vienna, Austria"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
